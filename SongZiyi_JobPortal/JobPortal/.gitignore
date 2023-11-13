@@ -1,0 +1,11 @@
+# .gitignore
+
+# macOS system files
+.DS_Store
+.env
+
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
